@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chimera012
+- 👋 Hi, I’m Kai
 - 👀 I’m interested in software development and data analytics.
 - 📫 How to reach me: crawfordkai2@gmail.com
 - 😄 Pronouns: he/him
